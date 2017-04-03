@@ -1,3 +1,4 @@
+# This little R script renames PDFs that are given random prefixes by Cloudfront so they match their intended filename.
 # Create a directory called "R_Programming" in your R working directory, then place your PDFs in there.
 # If the directory doesn't exist you'll get an error.
 path <- "R_Programming"
